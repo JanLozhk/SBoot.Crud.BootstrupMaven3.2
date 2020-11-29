@@ -1,6 +1,6 @@
 # SBoot.Crud.BootstrupMaven3.2
-1.	Необходимо перенести ваше CRUD-приложение на Spring Boot.
-2.	Изменить страницы вашего приложения в соответствии со скриншотами, используя Bootstrap.
+
+1.	Изменить страницы вашего приложения в соответствии со скриншотами, используя Bootstrap.
 Ссылки: 
 https://drive.google.com/file/d/1g32R1BmNASW5MRcLtwJWTn6ZROTMOVGJ/
 
